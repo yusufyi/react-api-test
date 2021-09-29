@@ -2,17 +2,13 @@
 
 ## Overview
 
-To complete this assessment, you will need to write a simple React web app, and provide us the source files to be built.
+The purpose of this test is to assess your skills and approach to composing a simple React web app given an API feed. We will also assess the generated HTML, CSS, and JS output.
 
-The purpose of this assessment is to assess your skills and approach to composing a simple web app given an API feed. We will also assess the generated HTML, CSS, and JS output.
-
-This assessment is expected to take about 1-2 hours.
-
----
+This test is expected to take about 1-2 hours.
 
 ## How to use
 
-Download or clone this [repo](https://github.com/wearedauntless)
+Download or clone this [repo](https://github.com/WeAreDauntless/react-api-test)
 
 Install it and run:
 
@@ -20,8 +16,6 @@ Install it and run:
 npm install
 npm start
 ```
-
----
 
 ## The idea behind the test
 
@@ -32,8 +26,6 @@ The template is a page that is ready to display images, titles and information i
 You tasks will be to turn this static content in to a dynamic feed of crypto currencies that are traded against the dollar (USD). More detailed steps on the application requirement are set out below.
 
 For this test you will be making use of the the **free** [CoinGecko API](https://www.coingecko.com/en/api/documentation). Keep in mind when building that their free API has a rate limit of 50 calls/minute, however this should be more than sufficient.
-
----
 
 ## Application requirement
 
@@ -56,8 +48,6 @@ For this test you will be making use of the the **free** [CoinGecko API](https:/
   - Market Cap
   - Market Cap Rank
 
----
-
 ## Additional items to consider
 
 - Ensure you have navigation back from the currency specific pages back to the main list page.
@@ -65,8 +55,6 @@ For this test you will be making use of the the **free** [CoinGecko API](https:/
 - We want to see you use React function components
 - Making use of React Hooks where and if it may make sense would show us your understanding of this.
 - If you would like to showcase your understanding of component styling then feel inspired to modify the basics that have been provided to you.
-
----
 
 ## Steps to complete your project
 
