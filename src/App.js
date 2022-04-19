@@ -164,7 +164,7 @@ export default function Album() {
                             <Button
                               size="small"
                               component={Link}
-                              to={`/Coin/${card.id}`}
+                              to={`/currency/${card.id}`}
                             >
                               More
                             </Button>
@@ -178,7 +178,7 @@ export default function Album() {
             }
           />
           {/* Individual Coin Information */}
-          <Route path="/Coin/:id" element={<Coin />} />
+          <Route path="/currency/:id" element={<Coin />} />
         </Routes>
       </Router>
 
