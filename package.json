@@ -15,6 +15,8 @@
     "@mui/material": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "react-query": "^3.35.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "latest"
   },
   "browserslist": {
